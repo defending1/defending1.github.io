@@ -1,11 +1,11 @@
-# On me
+# Alberto Defendi
 - Bachelor student in computer science at Unibz. 
 - Currently attending an exchange year at Helsinki University.
 - Interested about literature, mathematics, philosophy, fountain pens, and an active, 
 optimized and healthy lifestyle.
 
 
-# Recent projects 
+## Recent projects 
 Currently cracking DSA problems and writing portfolio for Models of computations & set theory (coming
 	soon).
 
@@ -32,7 +32,7 @@ The project is a sandbox to practice Java techniques and writing clean code,
 providing the highest coverage of testing and documentation as possible, with
 better use to version control. 
 
-# Older projects 
+## Older projects 
 [Calor](https://github.com/calorifero/app), a smart thermometer using a IoT sensor that helps the energy provider Regas to spot energy consumption patterns in customer’s houses.
 The project was developed for an Espressif ESP-32 equipped with a thermometer. This
 		control unit
