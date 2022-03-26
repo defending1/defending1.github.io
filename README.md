@@ -1,9 +1,11 @@
 # Alberto Defendi
-- Bachelor student in computer science at Unibz. 
-- Currently attending an exchange year at Helsinki University.
-- Interested about literature, mathematics, philosophy, fountain pens, and an active, 
+I am a Bachelor student in computer science at Unibz, currently attending an exchange year at Helsinki University. 
+I am Interested about literature, mathematics, philosophy, fountain pens, and an active, 
 optimized and healthy lifestyle.
 
+## Contacts
+mail: name.surname@helsinki.fi
+matrix: alonsochisciano:matrix.org
 
 ## Recent projects 
 Currently cracking DSA problems and writing portfolio for Models of computations & set theory (coming
@@ -57,3 +59,5 @@ Financed by Regas + Adecco that purchased the
 
 
 You can find more projects [here](https://gitlab.inf.unibz.it/users/ahl-berto/contributed).
+
+
