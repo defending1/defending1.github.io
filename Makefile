@@ -1,7 +1,7 @@
 STRING1 = "Last updated on "
 
 
-RESOURCEDIR = "resources"
+RESOURCEDIR = "css"
 TARGETDIR = "build"
 
 
