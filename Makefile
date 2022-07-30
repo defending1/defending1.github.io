@@ -2,7 +2,7 @@ STRING1 = "Last updated on "
 
 
 RESOURCEDIR = "css"
-TARGETDIR = "build"
+TARGETDIR = "docs"
 
 
 SOURCES = $(wildcard *.md)
