@@ -1,4 +1,5 @@
 #! /usr/bin/env bash
+
 sitemap="public/sitemap.xml"
 baseurl="https://https://defending1.github.io"
 timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")

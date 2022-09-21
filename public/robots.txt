@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://https://defending1.github.io/sitemap.xml
