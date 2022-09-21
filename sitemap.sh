@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-sitemap="public/sitemap.xml"
+sitemap="docs/sitemap.xml"
 baseurl="https://https://defending1.github.io"
 timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 
@@ -14,7 +14,7 @@ Allow: *
 Sitemap: $baseurl/sitemap.xml
 EOF
 `
-echo "$robots" > public/robots.txt
+echo "$robots" > docs/robots.txt
 
 header=`cat <<EOF
 <?xml version="1.0" encoding="UTF-8"?>
@@ -23,7 +23,7 @@ EOF
 ` 
 echo "$header" > $sitemap
 
-for file in $(find public -name "*.html" | sed -e 's/public\///'); do
+for file in $(find docs -name "*.html" | sed -e 's/docs\///'); do
   echo $(s_url $file) >> $sitemap
 done
 
